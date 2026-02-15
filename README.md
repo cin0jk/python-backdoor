@@ -14,5 +14,3 @@ Video anlatımında, bir reverse shell yapısının nasıl çalıştığını, s
 - ✔ Socket yapısının temelleri  
 - ✔ Client ve server arasındaki iletişim mantığı  
 - ✔ Güvenlik tarafında alınabilecek önlemler
-
-
