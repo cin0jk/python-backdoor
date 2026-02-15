@@ -16,11 +16,3 @@ Video anlatımında, bir reverse shell yapısının nasıl çalıştığını, s
 - ✔ Güvenlik tarafında alınabilecek önlemler
 
 
-##Diğer;
-- Projeyi beğendiysen:
-
-- 🌟 Reponu yıldızlayabilir
-- ve
-- 💬 Yorum bırakabilirsin.
-
-- Teşekkürler.
